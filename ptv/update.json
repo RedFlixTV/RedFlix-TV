@@ -1,14 +1,21 @@
 {
-  "latestVersion": "2.0.1",
-  "latestVersionCode": "21",
+  "latestVersion": "2.0.2",
+  "latestVersionCode": "22",
   "url": "https://bit.ly/ptv_v20",
   "releaseNotes": [
     "Please update the app in order to start enjoying the content!",
     " ",
     "Changelogs:",
     " ",
-    "- Package ID Updated",
-"- Minor Enhancements Done"
+"- Fixed Search UI when no results are found (Image was pushed to header).",
+"- Changed Genre and Country buttons UI to more minimalist to match the app UI.",
+"- Fixed episodes "watching" bug where clicking on one would also show watching on other. ",
+"- Fixed Favorites showing even after logging out. ",
+"- Added Notification Channel so users can toggle off/on from device settings easily.",
+"- Improved built-in downloader.",
+"- Updated external dependencies.",
+"- Fixed several bugs and took performance measures. ",
+"- Changed rewind and forward in player to 15 seconds."
 
   ]
 }
