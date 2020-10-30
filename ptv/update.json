@@ -1,28 +1,25 @@
 {
-  "latestVersion": "2.1",
-  "latestVersionCode": "23",
-  "url": "https://bit.ly/ptv_v21",
+  "latestVersion": "3.0",
+  "latestVersionCode": "30",
+  "url": "http://bit.ly/ptv_v30",
   "releaseNotes": [
     "Please update the app in order to start enjoying the content!",
     " ",
     "Changelogs:",
     " ",
-"- Added Watch History - You can now check your previously watched content history now",
-"- Added Resume playback - You can now resume where you've left any movie/episode",
-"- Added Quality selector - You can choose quality of specific movies/shows now.",
+"- New Completely revamped the UI",
+"- Added IMDB ratings",
+"- Added Search filters you can now search by genre, country or only within movies/shows/tv channels.",
 "- Added Dual Audio - You can now choose the audio for specific movies/shows.",
-"- Added Hard coded subtitles - You can now either switch between the subtitles provided within the server or completely toggle them off.",
-"- Added Missing release dates for related movies/shows.",
+"- Added NEW In-App Downloader.",
+"- Added Resume/Pause/Cancel notification for In-App Downloader.",
 "- Added Recently watched history in homescreen it'll automatically show after you watch and exit the movie/show.",
-"- Added New UI for Episodes & Season's for better convenience.",
-"- Added Offline Automatic Backup for your watched content and player timestamp in case you uninstall app and install again mistakenly.",
-"- Updated Improved Video Player.",
-"- Updated Improved Chromecast and fixed crashes on some devices.",
-"- Updated Chromecast Player.",
-"- Updated New Downloder to ensure everything downloads and content will now show in your favourite thrid party video players like MX Player after download.",
-"- Updated We've re-written the network part of the code so everything should load faster and smother than ever.",
-"- Updated Fixed buffering issue for several movies/shows.",
-"- This is a Major Release for Entire Channel Log Visit Our TG Channel."
+"- Added Google/Phone and Facebook login methods.",
+"- Added New Watch History Page with Clear Option.",
+"- Added Downloaded Content Now Available in Downloads Page.",
+"- Improved Chromecast support and fixed Chromecast player.",
+"- Fix Reduced ADS.",
+"- New Many More New Features."
 
   ]
 }
