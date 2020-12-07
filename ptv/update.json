@@ -1,25 +1,14 @@
 {
-  "latestVersion": "3.0",
+  "latestVersion": "3.1",
   "latestVersionCode": "31",
-  "url": "http://bit.ly/ptv_v30",
+  "url": "https://bit.ly/ptv_v31",
   "releaseNotes": [
     "Please update the app in order to start enjoying the content!",
     " ",
     "Changelogs:",
     " ",
-"- New Completely revamped the UI",
-"- Added IMDB ratings",
-"- Added Search filters you can now search by genre, country or only within movies/shows/tv channels.",
-"- Added Dual Audio - You can now choose the audio for specific movies/shows.",
-"- Added NEW In-App Downloader.",
-"- Added Resume/Pause/Cancel notification for In-App Downloader.",
-"- Added Recently watched history in homescreen it'll automatically show after you watch and exit the movie/show.",
-"- Added Google/Phone and Facebook login methods.",
-"- Added New Watch History Page with Clear Option.",
-"- Added Downloaded Content Now Available in Downloads Page.",
-"- Improved Chromecast support and fixed Chromecast player.",
-"- Fix Reduced ADS.",
-"- New Many More New Features."
+"- New Features",
+"- Install Update to Continue Using Pocket TV."
 
   ]
 }
